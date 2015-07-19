@@ -19,6 +19,8 @@
 	
 	<icon src="icon.png" />
 	
+
+	
 	<!--
 	
 	<icon src="ldpi.png" gap:platform="android" gap:density="ldpi" />
@@ -30,6 +32,7 @@
 	<gap:splash src="splash.png" />
 	
 	<preference name=”backgroundColor” value=”0xff38c0f4″ />
+	
 	
 	-->
 	
